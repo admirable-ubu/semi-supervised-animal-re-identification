@@ -1,0 +1,1 @@
+The code cannot work as stand-alone library. It needs the data files for the five videos (bounding boxes and constraints). They are named as in the repository at https://doi.org/10.5281/zenodo.7322820 and stored in folder “features/features”.
