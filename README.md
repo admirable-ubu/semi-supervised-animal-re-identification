@@ -4,7 +4,9 @@
 
 The data is from repository: [Animal Re-Identification from Video](https://doi.org/10.5281/zenodo.7322820).
 
-## 2. Code for ...
+## 2. Code for semi-supervised learning (Python)
+
+The _notebooks_ are stored in `python` folder. It needs the features files (RGB, HOG, LBP, AE and MN2) for the five videos splitted in the both parts.
 
 ## 3. Code for the constrained clustering (MATLAB)
 
